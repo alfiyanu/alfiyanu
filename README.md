@@ -1,5 +1,4 @@
-# 💫 About Me:
-👨‍🎓 Students at Gadjah Mada University <br>🛜 Internet Engineering Technology study program<br>📸 Media division of Jama'ah Vocational Al-'Alim<br>💻 Learning Web developer & Network engineering<br>
+
 
 
 <div align="center">
@@ -14,6 +13,9 @@
 </div>
 
 ###
+
+# 💫 About Me:
+👨‍🎓 Students at Gadjah Mada University <br>🛜 Internet Engineering Technology study program<br>📸 Media division of Jama'ah Vocational Al-'Alim<br>💻 Learning Web developer & Network engineering<br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
